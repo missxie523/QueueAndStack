@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/QueueAndStack.iml" filepath="$PROJECT_DIR$/QueueAndStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QueueByTwoStacks/QueueByTwoStacks.iml" filepath="$PROJECT_DIR$/QueueByTwoStacks/QueueByTwoStacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minByStack/minByStack.iml" filepath="$PROJECT_DIR$/minByStack/minByStack.iml" />
+    </modules>
+  </component>
+</project>
